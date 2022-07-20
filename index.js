@@ -13,9 +13,9 @@ const tambahan = require("./lib/tambahan.js")
 const donasi = require("./lib/donasi.js");
 const info = require("./lib/info.js");
 /////////////////
-const BotName = 'REUZ BOT☄'; 
-const instagram = 'https://instagram.com/reuz.id'; 
-const telegram = 'https://t.me/reuzzz'; 
+const BotName = 'LikssBot☄'; 
+const instagram = 'https://instagram.com/pangsitbasi.id'; 
+const telegram = 'https://t.me/olik'; 
 const kapanbotaktif = 'KETIKA HANYA DIAKTIFKAN'; 
 const youtube = 'https://www.youtube.com/c/kewok gaming_id';
 //const grupch1 = 'belum ada grup'; 
